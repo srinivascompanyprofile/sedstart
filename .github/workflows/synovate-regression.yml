@@ -1,4 +1,4 @@
-name: Synovate-Regression
+name: Synovate Regression
 
 on:
   workflow_dispatch:
